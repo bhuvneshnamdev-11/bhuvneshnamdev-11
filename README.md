@@ -1,4 +1,4 @@
-Hi, I'm Bhuvnesh Namdev
+**Hi, I'm Bhuvnesh Namdev**
 
 Welcome to my GitHub profile!
 
