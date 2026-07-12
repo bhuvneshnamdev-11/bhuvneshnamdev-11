@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!
 
-About Me
+
+**About Me**
+
 
 🎓 Computer Science student
 
@@ -15,12 +17,16 @@ About Me
 📚 Always learning new technologies and building projects
 
 
-🛠️ Technologies & Tools
+
+**🛠️ Technologies & Tools**
+
 
 currently expolring diffrent technologis & tools
 
 
-🎯 Goals
+
+**🎯 Goals**
+
 
 Build real-world projects
 
@@ -29,12 +35,16 @@ Contribute to open-source software
 Learn Data Structures & Algorithms
 
 
-📂 Repositories
+
+**📂 Repositories**
+
 
 You'll find my projects, practice programs, and learning resources here. Every repository represents another step in my learning journey.
 
 
-📫 Connect With Me
+
+**📫 Connect With Me**
+
 
 Feel free to explore my repositories and follow my progress. I'm always excited to learn and improve.
 
