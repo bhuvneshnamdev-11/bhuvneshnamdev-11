@@ -18,13 +18,6 @@
 - ⚡ Fun Fact: I love turning ideas into code.
 
 
-# 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
-</p>
-
-
 # 🌱 Currently Learning
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,15 +30,15 @@
 # 📫 Connect with Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/bhuvneshnamdev-11">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/bhuvnesh-namdev-31ab70374">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bhuvnesnamdev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
