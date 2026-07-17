@@ -11,14 +11,14 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/bhuvneshnamdev-11">
+<a href="https://leetcode.com/bhuvneshnamdev-11">
 <img
 src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/bhuvneshnamdev-11">
+<a href="https://codeforces.com/profile/bhuvnesh_11">
 <img
 src="(https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=black"/>
 </a>
