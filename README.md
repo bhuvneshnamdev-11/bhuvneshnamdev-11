@@ -4,13 +4,25 @@
 
 <h1 align="center"> Hi, I'm Bhuvnesh Namdev</h1>
 
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hqemxxcjNpdGpxdnhxamNkcDNkczBoMnJ3eWF6OTN4amlwYm9paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"
+  alt="Coding GIF"
+     width="300"/>
 
-<p align="right">
 </p>
-<table>
-<tr>
-
-<td width="65%" valign="top">
+<p align="center">
+<a href="https://github.com/bhuvneshnamdev-11">
+<img
+src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/bhuvneshnamdev-11">
+<img
+src="(https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=black"/>
+</a>
+</p>
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
@@ -18,18 +30,6 @@
 - 🚀 Exploring Open Source
 - 📚 Always learning new technologies
 - ⚡ Fun Fact: I love turning ideas into code.
-</td>
-
-<td width="35%" align="center">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hqemxxcjNpdGpxdnhxamNkcDNkczBoMnJ3eWF6OTN4amlwYm9paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"
-     alt="Coding GIF"
-     width="300"/>
-
-
-</td>
-
-</tr>
-</table>
 
 # 🌱 Currently Learning
 
