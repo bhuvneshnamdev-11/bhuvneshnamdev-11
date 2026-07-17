@@ -4,18 +4,32 @@
 
 <h1 align="center"> Hi, I'm Bhuvnesh Namdev</h1>
 
-<h3 align="center">🎓 B.Tech Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
+<p align="right">
 </p>
+<table>
+<tr>
+
+<td width="65%" valign="top">
 # 👨‍💻 About Me
 
+- 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development
 - 🚀 Exploring Open Source
 - 📚 Always learning new technologies
 - ⚡ Fun Fact: I love turning ideas into code.
+</td>
 
+<td width="35%" align="center">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hqemxxcjNpdGpxdnhxamNkcDNkczBoMnJ3eWF6OTN4amlwYm9paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"
+     alt="Coding GIF"
+     width="300"/>
+
+
+</td>
+
+</tr>
+</table>
 
 # 🌱 Currently Learning
 
