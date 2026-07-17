@@ -11,7 +11,6 @@
 </p>
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development
 - 🚀 Exploring Open Source
 - 📚 Always learning new technologies
