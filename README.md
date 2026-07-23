@@ -5,10 +5,9 @@
 
 <h2># 👨‍💻 About Me</h2>
 
-<table>
+<table width="100%">
 <tr>
-
-<td width="75%">
+<td width="55%" valign="top">
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development
@@ -18,12 +17,11 @@
 
 </td>
 
-<td width="65%">
+<td width="45%"align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
 
 </td>
-
 </tr>
 </table>
 
