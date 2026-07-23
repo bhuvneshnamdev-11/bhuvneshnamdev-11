@@ -30,8 +30,6 @@
 <h2># 🌱 Currently Learning</h2>
 
 - 📚 Data Structures & Algorithms
-- 🔐 Cybersecurity
-- 🌐 Web Development
 - 🛠 Git & GitHub
 - 💻 C Programming
   
@@ -65,7 +63,7 @@
 
 <h2># 📫 Connect with Me</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/bhuvneshnamdev-11">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -82,7 +80,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvneshnamdev-11/bhuvneshnamdev-11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bhuvneshnamdev-11/bhuvneshnamdev-11/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3>📂 Repositories<h3/>
