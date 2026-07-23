@@ -7,7 +7,7 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development
@@ -17,7 +17,7 @@
 
 </td>
 
-<td width="45%"align="center">
+<td width="50%"align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
 
