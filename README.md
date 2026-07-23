@@ -79,6 +79,12 @@
 </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhuvneshnamdev-11/bhuvneshnamdev-11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <h3>📂 Repositories<h3/>
 
 
