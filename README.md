@@ -27,10 +27,10 @@
 
 <h2># 🌱 Currently Learning</h2>
 
-- 📚 Data Structures & Algorithms
+- 📚 Data Structures & Algorithms 
 - 🛠 Git & GitHub
 - 💻 C Programming
-  
+
 <h2># 📊 GitHub Stats</h2>
 
 <p align="center">
