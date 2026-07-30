@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvneshnamdev-11&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=bhuvneshnamdev-11&theme=tokyonight"/>
 
 </p>
 
