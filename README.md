@@ -8,12 +8,12 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>
-- 🎓 B.Tech Computer Science Student</h5>
-<h5>- 💻 Passionate about Software Development</h5>
-<h5>- 🔍 Exploring Open Source</h5>
-<h5>- ⚡ Love solving coding problems</h5>
-<h5>- 📚 Learning something new every day</h5>
+
+<h4>- 🎓 B.Tech Computer Science Student</h4>
+<h4>- 💻 Passionate about Software Development</h4>
+<h4>- 🔍 Exploring Open Source</h4>
+<h4>- ⚡ Love solving coding problems</h4>
+<h4>- 📚 Learning something new every day</h4>
 
 </td>
 
