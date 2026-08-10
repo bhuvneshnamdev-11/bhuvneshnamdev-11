@@ -27,9 +27,9 @@
 
 <h2># 🌱 Currently Learning</h2>
 
-- 📚 Data Structures & Algorithms 
-- 🛠 Git & GitHub
-- 💻 C Programming
+<h5>- 📚 Data Structures & Algorithms</h5>
+<h5>- 🛠 Git & GitHub</h5>
+<h5>- 💻 C Programming</h5>
 
 <h2># 📊 GitHub Stats</h2>
 
