@@ -34,18 +34,16 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvneshnamdev-11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhuvneshnamdev-11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2># 🔥 GitHub Streak</h2>
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhuvneshnamdev-11&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=bhuvneshnamdev-11&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2># 🏅 Coding Profiles</h2>
+<h2> 🏅 Coding Profiles</h2>
 
 <p align="center">
 
@@ -59,7 +57,7 @@
 
 </p>
 
-<h2># 📫 Connect with Me</h2>
+<h2>📫 Connect with Me</h2>
 
 <p align="center">
 <a href="https://github.com/bhuvneshnamdev-11">
