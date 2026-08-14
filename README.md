@@ -40,7 +40,7 @@
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhuvneshnamdev-11&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bhuvneshnamdev-11&theme=tokyonight" />
 </p>
 
 <h2> 🏅 Coding Profiles</h2>
