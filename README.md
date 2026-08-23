@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Hi, I'm Bhuvnesh Namdev</h1>
 
-<h2> 👨‍💻 About Me</h2>
+<h3> 👨‍💻 About Me</h3>
 
 <table width="100%">
 <tr>
@@ -25,7 +25,7 @@
 </tr>
 </table>
 
-<h2> 🌱 Currently Learning</h2>
+<h3> 🌱 Currently Learning</h3>
 
 <h5>- 📚 Data Structures & Algorithms</h5>
 <h5>- 💻 C++ Programming</h5>
