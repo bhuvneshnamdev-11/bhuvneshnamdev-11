@@ -1,8 +1,8 @@
+<h1 align="center">Hi, I'm Bhuvnesh Namdev</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;C%2FC%2B%2B+Developer;Learning+DSA+%26+Web+Development" />
 </p>
-
-<h1 align="center">Hi, I'm Bhuvnesh Namdev</h1>
 
 <h3> 👨‍💻 About Me</h3>
 
