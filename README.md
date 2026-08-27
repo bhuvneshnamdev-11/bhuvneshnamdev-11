@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;C%2FC%2B%2B+Developer;Learning+DSA+%26+Web+Development" />
 </p>
 
-<h3> 👨‍💻 About Me</h3>
+<h2> 👨‍💻 About Me</h2>
 
 <table width="100%">
 <tr>
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<h3> 🌱 Currently Learning</h3>
+<h2> 🌱 Currently Learning</h2>
 
 <h5>- 📚 Data Structures & Algorithms</h5>
 <h5>- 💻 C++ Programming</h5>
