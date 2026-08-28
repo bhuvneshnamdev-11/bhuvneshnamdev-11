@@ -30,9 +30,9 @@
 
 <h2> 🌱 Currently Learning</h2>
 
-<h5>- 📚 Data Structures & Algorithms</h5>
-<h5>- 💻 C++ Programming</h5>
-<h5>- 🛠 Git & GitHub</h5>
+<h4>- 📚 Data Structures & Algorithms</h4>
+<h4>- 💻 C++ Programming</h4>
+<h4>- 🛠 Git & GitHub</h4>
 
 <h2>📊 GitHub Stats</h2>
 
