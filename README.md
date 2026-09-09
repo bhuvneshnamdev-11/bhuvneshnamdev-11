@@ -19,7 +19,7 @@
 <h4>- 📚 Learning something new every day</h4>
 
 </td>
-
+      
 <td width="50%"align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
