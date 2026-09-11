@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="./assets/Hi_Im_Bhuvnesh_Namdev_animated.gif"
-       width="600"
        alt="Hi, I'm Bhuvnesh Namdev">
 </h1>
 
