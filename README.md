@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="./assets/Hi_Im_Bhuvnesh_Namdev_animated.gif"
-       alt="Hi, I'm Bhuvnesh Namdev">
+  <img
+    src="https://raw.githubusercontent.com/bhuvneshnamdev-11/bhuvneshnamdev-11/main/assets/Hi_Im_Bhuvnesh_Namdev_animated.gif"
+    width="600"
+    alt="Hi, I'm Bhuvnesh Namdev">
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;C%2FC%2B%2B+Developer;Learning+DSA+%26+Web+Development" />
 </p>
