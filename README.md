@@ -19,7 +19,7 @@
 <h4>- 🔍 Exploring Open Source</h4>
 <h4>- ⚡ Love solving coding problems</h4>
 <h4>- 📚 Learning something new every day</h4>
-
+                                                     
 </td>
       
 <td width="50%"align="center">
