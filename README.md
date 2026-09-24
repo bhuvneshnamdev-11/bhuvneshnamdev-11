@@ -9,7 +9,7 @@
 </p>
                                          
 <h2> 👨‍💻 About Me</h2>
-                                                                       
+                                                                            
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
