@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/bhuvneshnamdev-11/bhuvneshnamdev-11/main/assets/Hi_Im_Bhuvnesh_Namdev_animated.gif"
-    width="600"
+    width="600"             
     alt="Hi, I'm Bhuvnesh Namdev">
 </h1>
 <p align="center">
