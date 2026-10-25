@@ -13,7 +13,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
+                         
 <h4>- 🎓 B.Tech Computer Science Student</h4>
 <h4>- 💻 Passionate about Software Development</h4>
 <h4>- 🔍 Exploring Open Source</h4>
