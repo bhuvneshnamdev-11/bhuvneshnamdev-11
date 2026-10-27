@@ -39,7 +39,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhuvneshnamdev-11&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=bhuvneshnamdev-11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2>🔥 GitHub Streak</h2>
