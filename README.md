@@ -30,6 +30,12 @@
 </tr>
 </table>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=bhuvneshnamdev-11&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</p>
+
 <h2> 🌱 Currently Learning</h2>
 
 <h4>- 📚 Data Structures & Algorithms</h4>
