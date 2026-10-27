@@ -85,6 +85,10 @@
   <img src="https://bhuvneshnamdev-11.github.io/bhuvneshnamdev-11/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+## 💡 Daily Coding Quote
+
+![Coding Quote](https://codequote.vercel.app/api/quote.svg?theme=tokyonight)
+
 <h4>📂 Repositories<h4/>
 
 You'll find my projects, practice programs, and learning resources here. Every repository represents another step in my learning journey.
