@@ -36,6 +36,12 @@
 <h4>- 💻 C++ Programming</h4>
 <h4>- 🛠 Git & GitHub</h4>
 
+<h2>💻 Tech Stack</2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode&theme=dark" />
+</p>
+
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
