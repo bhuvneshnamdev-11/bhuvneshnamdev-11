@@ -32,7 +32,7 @@
 
 <h2> 🌱 Currently Learning</h2>
 
-<h4>- 📚 Data Structures & Algorithms</h4>
+<h4>- 🐍 Python Programming</h4>
 <h4>- 💻 C++ Programming</h4>
 <h4>- 🛠 Git & GitHub</h4>
 
