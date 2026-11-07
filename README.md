@@ -39,7 +39,7 @@
 <h2>💻 Tech Stack</2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,github,vscode&theme=dark" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
