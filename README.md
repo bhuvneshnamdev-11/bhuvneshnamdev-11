@@ -93,7 +93,9 @@
 
 ## 💡 Daily Coding Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" alt="Random Coding Quote" />
+</p>
 
 <h4>📂 Repositories<h4/>
 
