@@ -93,7 +93,7 @@
 
 ## 💡 Daily Coding Quote
 
-![Coding Quote](https://codequote.vercel.app/api/quote.svg?theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h4>📂 Repositories<h4/>
 
